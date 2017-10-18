@@ -1,9 +1,9 @@
 Připravit
 =========
-- [ ] BMP - aktivity
+* - [ ] BMP - aktivity
 
-- [ ] Domenovy model - objekty - vazba s BMP
+* - [ ] Domenovy model - objekty - vazba s BMP - mezi objekty vazby s kardinalitou
 
-- [ ] Pozadavky
+* - [ ] Pozadavky
 
-- [ ] UseCase model
+* - [ ] UseCase model
