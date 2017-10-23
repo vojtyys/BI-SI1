@@ -8,13 +8,13 @@
 
   1. - [ ] katalog pozadavku - **Vojta**
 
-  2. - [ ] diagram pripadu uziti - **Vojta**
+  2. - [ ] diagram pripadu uziti - **Kuba**
 
   3. - [ ] popisy pripadu uziti - **Kuba**
 
   4. - [ ] detailni scenare (5) - **Honza**
 
-  5. - [ ] seznam ucastniku - **kdo bude mit cas**
+  5. - [ ] seznam ucastniku - **Vojta**
   
   6. - [ ] mapovani pripadu uziti na pozadavky - **Vojta** 
   
