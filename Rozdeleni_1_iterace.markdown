@@ -18,7 +18,7 @@
   
   6. - [ ] mapovani pripadu uziti na pozadavky - **Vojta** 
   
- * - [ ] domenovy model trid
+* - [ ] domenovy model trid
  
   1. - [ ] diagram tříd - kardinality, názvy asociací (UML Structural-Class) - **Tomas Balihar**
   
