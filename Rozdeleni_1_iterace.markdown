@@ -14,7 +14,7 @@
 
   4. - [ ] detailni scenare (5) - **Honza**
 
-  5. - [ ] seznam ucastniku - **Vojta**
+  5. - [x] seznam ucastniku - **Vojta**
   
   6. - [ ] mapovani pripadu uziti na pozadavky - **Vojta** 
   
