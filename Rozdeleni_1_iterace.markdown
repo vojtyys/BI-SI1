@@ -6,7 +6,7 @@
 
 * - [ ] uc model
 
-  1. - [ ] katalog pozadavku - **Vojta**
+  1. - [x] katalog pozadavku - **Vojta**
 
   2. - [ ] diagram pripadu uziti - **Kuba**
 
