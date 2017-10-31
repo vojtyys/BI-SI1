@@ -1,22 +1,22 @@
-* - [ ] analyza bussiness procesu
+* - [x] analyza bussiness procesu
  
-  1. - [ ] diagram aktivit - **Tomáš P.**
+  1. - [x] diagram aktivit - **Tomáš P.**
 
-  2. - [ ] textove popisy procesu - **Tomáš P.**
+  2. - [x] textove popisy procesu - **Tomáš P.**
 
 * - [ ] uc model
 
   1. - [x] katalog pozadavku - **Vojta**
 
-  2. - [ ] diagram pripadu uziti - **Kuba**
+  2. - [x] diagram pripadu uziti - **Kuba**
 
-  3. - [ ] popisy pripadu uziti - **Kuba**
+  3. - [x] popisy pripadu uziti - **Kuba**
 
   4. - [ ] detailni scenare (5) - **Honza**
 
   5. - [x] seznam ucastniku - **Vojta**
   
-  6. - [ ] mapovani pripadu uziti na pozadavky - **Vojta** 
+  6. - [x] mapovani pripadu uziti na pozadavky - **Vojta** 
   
 * - [ ] domenovy model trid
  
